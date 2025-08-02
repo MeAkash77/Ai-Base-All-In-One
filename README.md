@@ -1,7 +1,7 @@
 # Ai-Base-All-In-One
 
 Ai-Base-All-In-One is an open-source platform for discovering and learning about AI tools. It's a community-driven directory of AI tools, including chatbots, image generators, code generators, and more.
-![image](/public/Screenshot%202025-02-08%20223337.png)
+![image](https://github.com/user-attachments/assets/3a6333ef-6178-493c-a1e1-b7cf9ca91807)
 
 ## Features
 
